@@ -1,0 +1,28 @@
+{
+    "student_name": "Lê Tấn Linh",
+    "student_id": "2125110012",
+    "courses": [
+        {
+            "code": "hilo",
+            "name": "lập trình hướng đối tượng",
+            "credits": 3,
+            "grade": 8.0
+        }
+    ],
+    "goals": [
+        {
+            "title": "qua môn với số điểm cao",
+            "target_date": "05/10/2026",
+            "completed": false
+        }
+    ],
+    "tasks": [
+        {
+            "title": "dự án python",
+            "course_code": "",
+            "deadline": "07/10/2026",
+            "status": "Hoàn thành"
+        }
+    ],
+    "timetable": {}
+}
